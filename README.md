@@ -1,3 +1,3 @@
 # Bluetooth-controlled-Robotic-Arm
 
-Download the app here:
+Download the Android app here:
